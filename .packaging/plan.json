@@ -1,0 +1,14 @@
+{
+  "build_script": "npm run typecheck && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "LakshmiNarayanan2003/grabshift",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "8ea86e4d9e2f96aaf448a0dd952bdd01c4e5d1c4"
+}
